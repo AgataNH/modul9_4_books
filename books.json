@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "Sto lat samotonosci",
+      "author": "Gabriel Garcia Marquez",
+      "read": false,
+      "recommend": false
+    },
+    {
+      "id": 2,
+      "title": "Dotkniecie pustki",
+      "author": "Joe Simpson",
+      "read": false,
+      "recommend": false
+    }
+  ]
